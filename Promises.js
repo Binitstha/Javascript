@@ -16,7 +16,7 @@ promise.then(
     }
 )
 
-// Another short cut way with arrow funtion
+// Another short cut way with arrow funtion only resolve method
 let promise = new Promise(resolve => {
     let x = true
     if (x) {
