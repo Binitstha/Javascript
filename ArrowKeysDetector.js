@@ -10,7 +10,7 @@
   </head>
   <body id="body">
     <p id="p1"> </p>
-    <script src="index.js"></script>
+    <script src="ArrowKeysDetector.js"></script>
   </body>
 </html>*/
 const box = document.getElementById("p1")
